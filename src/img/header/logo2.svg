@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="72mm"
+   height="30mm"
+   viewBox="0 0 72 30"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <g
+       id="g6">
+      <circle
+         style="fill:#1a1a1a;stroke-width:0.264583"
+         id="path4"
+         cx="14.988093"
+         cy="14.988095"
+         r="12.682235" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.2278px;font-family:'Century Schoolbook';-inkscape-font-specification:'Century Schoolbook, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583"
+         x="0.70949519"
+         y="21.28487"
+         id="text5"><tspan
+           id="tspan5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.2278px;font-family:Elephant;-inkscape-font-specification:'Elephant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583"
+           x="0.70949519"
+           y="21.28487">VM</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Elephant;-inkscape-font-specification:'Elephant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.264583"
+       x="26.251339"
+       y="16.673147"
+       id="text6"><tspan
+         id="tspan6"
+         style="font-size:7.05556px;fill:#000000;stroke-width:0.264583"
+         x="26.251339"
+         y="16.673147">photography</tspan></text>
+  </g>
+</svg>
